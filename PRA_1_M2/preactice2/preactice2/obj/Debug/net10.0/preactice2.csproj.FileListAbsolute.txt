@@ -1,0 +1,14 @@
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\bin\Debug\net10.0\preactice2.exe
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\bin\Debug\net10.0\preactice2.deps.json
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\bin\Debug\net10.0\preactice2.runtimeconfig.json
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\bin\Debug\net10.0\preactice2.dll
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\bin\Debug\net10.0\preactice2.pdb
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\obj\Debug\net10.0\preactice2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\obj\Debug\net10.0\preactice2.AssemblyInfoInputs.cache
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\obj\Debug\net10.0\preactice2.AssemblyInfo.cs
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\obj\Debug\net10.0\preactice2.csproj.CoreCompileInputs.cache
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\obj\Debug\net10.0\preactice2.dll
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\obj\Debug\net10.0\refint\preactice2.dll
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\obj\Debug\net10.0\preactice2.pdb
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\obj\Debug\net10.0\preactice2.genruntimeconfig.cache
+D:\C#_PRACTICE\PRA_1_M2\preactice2\preactice2\obj\Debug\net10.0\ref\preactice2.dll
