@@ -1,0 +1,14 @@
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\bin\Debug\net10.0\Practice1.exe
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\bin\Debug\net10.0\Practice1.deps.json
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\bin\Debug\net10.0\Practice1.runtimeconfig.json
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\bin\Debug\net10.0\Practice1.dll
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\bin\Debug\net10.0\Practice1.pdb
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\obj\Debug\net10.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\obj\Debug\net10.0\Practice1.AssemblyInfoInputs.cache
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\obj\Debug\net10.0\Practice1.AssemblyInfo.cs
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\obj\Debug\net10.0\Practice1.csproj.CoreCompileInputs.cache
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\obj\Debug\net10.0\Practice1.dll
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\obj\Debug\net10.0\refint\Practice1.dll
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\obj\Debug\net10.0\Practice1.pdb
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\obj\Debug\net10.0\Practice1.genruntimeconfig.cache
+D:\C#_PRACTICE\PRA_1_M1\Practice1\Practice1\obj\Debug\net10.0\ref\Practice1.dll
